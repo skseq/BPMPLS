@@ -5,6 +5,12 @@ Drag a folder in, get honest tempos written straight into your files.
 
 macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accounts, no telemetry.
 
+<p align="center"><img src="assets/screenshot.png" width="420" alt="BPMPLS About panel"></p>
+
+## Download
+
+**[BPMPLS-0.8.906c-universal.dmg](https://github.com/skseq/BPMPLS/releases/download/v0.8.906c/BPMPLS-0.8.906c-universal.dmg)** — macOS 14+, Apple Silicon and Intel. The app is unsigned: on first launch, confirm via **System Settings ▸ Privacy & Security ▸ Open Anyway**. All releases [here](https://github.com/skseq/BPMPLS/releases); or build from source with `./build.sh`.
+
 ## What it does
 
 - **Drop files or folders** — recursive scan queues every `.mp3` / `.flac` it finds and tells you what it skipped (artwork, playlists, nfo files…).

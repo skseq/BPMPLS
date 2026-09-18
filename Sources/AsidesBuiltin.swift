@@ -1,0 +1,58 @@
+// GENERATED FILE — do not edit by hand.
+
+import Foundation
+
+let asideTableB64 = [
+    "cmVhbGx5PyB5b3UgbGlzdGVuIHRvICVhcnRpc3QlPwpvb29oLCAldGl0bGUlLiBoYXJkLgpib2xkIGNob2ljZS4gcmVzcGVj",
+    "dGVkLgp0d28gdGhvdXNhbmQgZmlsZXMgaW4sIHN0aWxsIG5vIHNraXBzLgp3ZWFwb24gb2YgY2hvaWNlLgolYXJ0aXN0JS4g",
+    "dWggaHVoLiBpIGtub3cgd2hhdCB5b3UgYXJlLiBpIHNlZSB5b3UuIHlvdSBhcmUgc2Vlbi4KZ3VpbHR5IHBsZWFzdXJlIGRl",
+    "dGVjdGVkLiBsb2dnZWQgYW55d2F5LgolYWxidW0lIGhhcyBhIHNwZWNpYWwgcGxhY2UgaW4gbXkgdnJhbS4KdGFzdGUuCnRo",
+    "aXMgY2xlYXJzIHRoZSByb29tLiBpbiBhIGdvb2Qgd2F5LgppIGNhbid0IGdldCBqaWdneSB0byB0aGlzIHNoaXQuCnBlYWsg",
+    "dGltZS4gZXZlcnkgdGltZS4KaW50ZXJlc3RpbmcuIGZpbGluZyB1bmRlciAnY2hhcmFjdGVyIGJ1aWxkaW5nJy4KaSBzd29y",
+    "ZSBpIGhlYXJkICVhcnRpc3QlIHJlY2VudGx5LCBhdCBsaWtlIGEgY3ZzLi4gb3Igd2hvbGUgZm9vZHMuLi4gaSBtZWFuIGkg",
+    "Z3Vlc3MKb2gsICVhcnRpc3QlLiBhcmUgeW91IGEgYmVkcm9vbSBkaj8gdG91Y2ggZ3Jhc3MgYmVmb3JlPwphIGNsYXNzaWMu",
+    "IG5vIG5vdGVzLgolYWxidW0lIGlzIGZvciB0aGUgaGVhZHMuCmVtb3Rpb25hbCBzdXBwb3J0IHRyYWNrIGRldGVjdGVkLgp5",
+    "b3UgY2FuJ3QgcGxheSAldGl0bGUlIHNvYmVyLgpIb25lc3RseT8gQ2x1dGNoIG1vdmUgdG8gcGxheSAldGl0bGUlISBZb3Un",
+    "cmUgQW4gQU1hemVpbmcgREVFSkFZLiAoanVtcHMgaW4gYSByaXZlcikKJWJwbSU/IHlvdSBzdHJva2luIHRvIHRoaXM/Cnlv",
+    "dXIgVVNCIHN0aWNrIGlzIGxpa2UgaHVuZG8gcCAlYnBtJSBicG0uIGludHJvZHVjZSBzb21lIGNoYW9zIGludG8gdXIgbGlm",
+    "ZS4Kc29saWQuIG5vdCBzcGVjdGFjdWxhci4gc29saWQuCmV0ZXJuYWxseSBzbGVwdCBvbiwgJWFsYnVtJS4KaGF2ZW4ndCB0",
+    "aG91Z2h0IG9mICVhcnRpc3QlIGluIEZPUkVWRVJSUlIKY2FuJ3QgZXZlbiBiZSBtYWQuICVhcnRpc3QlIGlzIHRoZSBnb2F0",
+    "LgpkYW1uISB0aGlzIGhlbGxhIG1pZC4KayB0aGlzIG9uZSBzbGFwcy4KQUxFUlQgLSAleWVhciUgQ0hJTEQgREVURUNURUQg",
+    "LSBBTEVSVAp0cnlpbmcgc28gaGFyZCB0byBiZSBvYnNjdXJlIGhlcmUuCmFuIGFjcXVpcmVkIHRhc3RlLiBhbiB1bmMtd2ly",
+    "ZWQgdGFzdGUuICV5ZWFyJSBtYW4uIGxldCdzIGJlIGZyCm5vIHRob3VnaHRzIGp1c3QgJWFydGlzdCUuCm1pZCBidXQgYXQg",
+    "M2FtIGl0J3Mgc3RyaWN0bHkgaW4tbXktZmVlbGluZ3MgdGVycml0b3J5LgpzY2FubmluZyAlZmlsZW5hbWUlIGZlbHQgbGlr",
+    "ZSByZWFkaW5nIHlvdXIgZGlhcnkuCnRoZSBmaWxlIGFsb25lIGRlc2VydmVzIGEgcmVzaWRlbmN5LgpvaCwgeW91J3JlIFRI",
+    "QVQga2luZCBvZiBESi4KeW91IHJlYWRpbmcgbGluZXIgbm90ZT8gJXRpdGxlJSBraW5kYSBkZWVwLgolYnBtJSBmb3IgYW4g",
+    "b3BlbmluZyBzZXQuLi4gc3VyZS4uCnRlbiBvdXQgb2YgdGVuLCB3b3VsZCBzY2FuIGFnYWluLgp0aGUgaGFyZCBkcml2ZSBy",
+    "ZW1lbWJlcnMgZXZlcnl0aGluZy4Kc3RvcCB3aXRoIHRoaXMgJXRpdGxlJSBub25zZW5zZS4gd2UncmUgZ3Jvd24uCiVhcnRp",
+    "c3QlIGFnYWluPyB5b3VyIGxveWFsdHkgaXMgc2hvd2luZy4KJWFydGlzdCUgZ290IGNhbmNlbGxlZCBkaWRuJ3QgdGhleS4g",
+    "YWxzbyB3aG8gY2FyZXMgc2hpdCBiYW5ncwp0aGUgbW9tZW50IHRoZSBsaWdodHMgZ28gbG93LgpldmVyeW9uZSBza2lwcyAl",
+    "dGl0bGUlLiBub3QgeW91LiBuZXZlciBZT1UKJWFsYnVtJSB5YXduLgp3aG8gdG9sZCB5b3UgYWJvdXQgJXRpdGxlJS4gd2hv",
+    "IHRvbGQuCm9uY2Ugc2F3ICVhcnRpc3QlIGxpdmUuIHRoZXkgd2VyZSBpbiBmcm9udCBvZiBtZSBhdCB0YXJnZXQgYnV5aW5n",
+    "IGJpcnRoIGNvbnRyb2wKYWxnb3JpdGhtIHRlYWNoIHlvdSBhYm91dCAlYXJ0aXN0JT8Kb2ggdGhhdCdzIG5pY2UgaG9uZXku",
+    "CiVhcnRpc3QlPyB5b3UgYW5kIGV2ZXJ5b25lIHlvdSBrbm93Lgp3aG8gcHV0IHlvdSBvbiB0byAlYXJ0aXN0JS4gbWFyayB6",
+    "dWNrZXJiZXJnPwpvZiBjb3Vyc2UgdGhlcmUncyAlYXJ0aXN0JSBpbiBoZXJlLgppIGRvbid0IGV2ZW4gd2FudCB0byBrbm93",
+    "IG9uIHdoYXQgb2NjYXNpb25zIHlvdSBwbGF5ICV0aXRsZSUuCiVhcnRpc3QlPyAlYXJ0aXN0JT8/CiVhbGJ1bSUgZGV0ZWN0",
+    "ZWQuIHNvY2lhbCBjcmVkaXQgc2NvcmUgaW5jcmVhc2VkIGJ5IDIuCmFoLCAlYXJ0aXN0JS4gdGhlIGNvcnJlY3QgYW5zd2Vy",
+    "LgolYXJ0aXN0JSDigJQgc2F5IGxlc3MuCnN0aWxsIHJpbnNpbmcgJWFsYnVtJSwgaSBzZWUuCiVhbGJ1bSUuIGZyb250IHRv",
+    "IGJhY2ssIG5vIHNraXBzLCBvYnZpb3VzbHkuCndlcmUgeW91IGV2ZW4gYWxpdmUgaW4gJXllYXIlLgpib3V0IHRvIGNsZWFu",
+    "IHRoZSBob3VzZSB0byAlYWxidW0lLgppJ20gZ29uZSBvZmYgdGhhdCAlYWxidW0lLgolYWxidW0lIGJhbmdzIGFsbCBzdW1t",
+    "ZXIgJXllYXIlLgppIG9uY2UgaGVhcmQgJXRpdGxlJSB3YWxraW5nIGRvd24gdGhlIHN0cmVldCwgYnVtcGluZyBsb3VkIG91",
+    "dCB0aGUgZzM1LiB0aGF0IHU/CiV5ZWFyJSBuby4gZ3JvdyB1cC4KYSAleWVhciUgb3JpZ2luYWwuIHJlc3BlY3RlZC4KaSB3",
+    "YWxrZWQgZG93biB0aGUgYWlzbGUgdG8gJXRpdGxlJSBzaGFraW5nIGFzcyB0aGUgd2hvbGUgdGltZS4gZ3JhbmRtYSBzZXZl",
+    "cmVseSB0cmF1bWF0aXplZC4KZmFjZWJvb2sgd2lsbCBiZSBsaWtlIFJFTUVNQkVSIFRISVMgYW5kIHNob3cgeW91IGEgY3Jp",
+    "bmdlIGFzcyB2aWRlbyB3aGlsZSAldGl0bGUlIGlzIHBsYXlpbmcuIHRoYXQncyB5b3UuIFJpZ2h0IG5vdy4KJXllYXIlIHdh",
+    "cyBhIGdvb2QgeWVhci4KJXllYXIlPyEgYW5kIGl0IHN0aWxsIHNsYXBzLgolYnBtJSBCUE0/IGluIHRoaXMgZWNvbm9teT8K",
+    "aSBkb24ndCBnaXZlICVicG0lIEZVWCBwZXIgbWludXRlLgoieWVhaCB5ZWFoIGtlZXAgaXQgY2hpbGwgYXQgJWJwbSUgYWxs",
+    "IG5pZ2h0Iiwgc3VyZSBwYWwuIHN1cmUuCmkgcGxheSAldGl0bGUlIGF0IGV4Y2x1c2l2ZWx5ICsyMCBicG0uIGJlY2F1c2Ug",
+    "aSBqdXN0IGRvbid0IGNhcmUuCmkgZGFyZSB5b3UgdG8gZGFuY2UgdG8gJWJwbSUgYnBtLiBpIGJldCB5b3UgY291bGRuJ3Qu",
+    "IG1hbnkgc3VjaCBjYXNlcywgZG9uJ3QgZmVlbCBiYWQuCiVhcnRpc3QlIOKAlCAldGl0bGUlLiBzb21lb25lIHN0dWRpZWQu",
+    "CmlmIHlvdSBldmVyIHNjYW4gJWFydGlzdCUgZmlsZXMgYWdhaW4gaSB3aWxsIGRlbGV0ZSBteXNlbGYuCiVhbGJ1bSUgb2gg",
+    "b2theS4gYmFsbCBrbm93ZXIuCiVhcnRpc3QlLCAleWVhciUuIHNvbWUgZXJhcyBuZXZlciBkaWUu"
+].joined()
+
+let asidesBuiltin: [String] = {
+    guard let data = Data(base64Encoded: asideTableB64),
+          let text = String(data: data, encoding: .utf8) else { return [] }
+    return text.split(separator: "\n").map(String.init)
+}()

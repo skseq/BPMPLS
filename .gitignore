@@ -1,0 +1,10 @@
+.DS_Store
+BPMPLS.app/
+*.mp3
+*.wav
+*.aiff
+*.aif
+*.flac
+*.m4a
+# Synthetic test tones must be tracked despite the audio rules above.
+!Tests/Fixtures/**

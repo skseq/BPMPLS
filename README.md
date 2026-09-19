@@ -31,7 +31,7 @@ macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accou
 - **Log console** — multi-tempo notes show in light blue. Drag its top edge to resize (up to 30% of the window; the size stays put when the window resizes).
 - **Settings** — completion/error sounds, per-session logging with error snapshots.
 
-## Why BPMPLS exists
+## R.I.P. MixMeister software
 
 BPMPLS wouldn't exist without MixMeister BPM Analyzer — the free tool that taught a generation of DJs to batch-analyze their libraries and trust the BPM tag. Its last update was years ago; it never survived the Mac's move past Intel, and today it lives on only as an archive listing. If you went looking for a MixMeister BPM Analyzer that runs on modern Macs, that search is why this page exists.
 

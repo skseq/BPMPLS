@@ -1,7 +1,6 @@
-# BPMPLS
+# BPMPLS — BPM analyzer & tagger for Mac
 
-Batch BPM detection and in-place tagging for MP3 and FLAC, built for DJs.
-Drag a folder in, get honest tempos written straight into your files.
+BPMPLS — "BPM, please" — is a free, open-source BPM analyzer for Mac: batch tempo detection and in-place BPM tagging for MP3 and FLAC, built for DJs. Drag a folder in, get honest tempos written straight into your files.
 
 macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accounts, no telemetry.
 
@@ -9,7 +8,7 @@ macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accou
 
 ## Download
 
-**[BPMPLS-0.8.906c-universal.dmg](https://github.com/skseq/BPMPLS/releases/download/v0.8.906c/BPMPLS-0.8.906c-universal.dmg)** — macOS 14+, Apple Silicon and Intel. The app is unsigned: on first launch, confirm via **System Settings ▸ Privacy & Security ▸ Open Anyway**. All releases [here](https://github.com/skseq/BPMPLS/releases); or build from source with `./build.sh`.
+**[BPMPLS-0.8.906c-universal.dmg](https://github.com/skseq/BPMPLS/releases/download/v0.8.906c/BPMPLS-0.8.906c-universal.dmg)** — free, macOS 14+, Apple Silicon and Intel. The app is unsigned: on first launch, confirm via **System Settings ▸ Privacy & Security ▸ Open Anyway**. All releases [here](https://github.com/skseq/BPMPLS/releases); or build from source with `./build.sh`.
 
 ## What it does
 
@@ -19,6 +18,7 @@ macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accou
 - **A/B evidence** — if a file already had a BPM, the old value stays visible next to the new one. It turns mint only when the change is drastic (more than ±5 BPM); small refinements stay gray.
 - **Multi-tempo surfacing** — tracks with genuine tempo changes are flagged in the console and log with the segment breakdown (`multi-tempo: 155 (41%) · 77 (5%) — tagged 155`). A second tempo only counts when it's a real structural stage: at least 12 seconds, a meaningful share of the track, and not the same groove read at another metrical depth (×2, ×3/2, ×4/3, ×5/4 relatives are suppressed) — unless it's a half/double-rate section with a different band character, like an ambient no-kick intro before a kick-led body.
 - **Smart skip logic** — intros, breakdowns, and mute/drop gaps are handled: on-grid resumes keep the baseline, off-grid ones re-anchor. Tempo changes mid-track are detected and logged.
+- **DJ prep** — calculate the BPM of a whole crate and prep it for Serato, Rekordbox, Traktor, or a USB set: every file leaves tagged and ready.
 
 ## Controls
 
@@ -31,12 +31,9 @@ macOS 14+, Apple Silicon and Intel (universal binary), no dependencies, no accou
 - **Log console** — multi-tempo notes show in light blue. Drag its top edge to resize (up to 30% of the window; the size stays put when the window resizes).
 - **Settings** — completion/error sounds, per-session logging with error snapshots.
 
-## Philosophy
+## Why BPMPLS exists
 
-1. The low end carries the tempo. When in doubt, trust the kick.
-2. A wrong number with high confidence is worse than no number — errors are surfaced, never hidden.
-3. Files are sacred: the only tag ever written is BPM.
-4. Your library, your machine: everything runs locally.
+BPMPLS wouldn't exist without MixMeister BPM Analyzer — the free tool that taught a generation of DJs to batch-analyze their libraries and trust the BPM tag. Its last update was years ago; it never survived the Mac's move past Intel, and today it lives on only as an archive listing. If you went looking for a MixMeister BPM Analyzer that runs on modern Macs, that search is why this page exists.
 
 ## Building
 
